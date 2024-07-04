@@ -41,7 +41,9 @@ Here's a simple overview of the CSS code: Body
 • Sets the background color, padding, margin, and border radius to create a styled list item
  • Uses flexbox to center the content and create space between list items
 • Defines a button style within list items with a red background color and hover state Overall, this CSS code is styling a simple web page with a centered container, input fields, buttons, and a list of items. The design is clean and modern, with a focus on creating a visually appealing user interface.
+
 JavaScript code-
+
  Here's a simple overview of the JavaScript code: Variables and Event Listeners
  • The code gets references to two HTML elements: taskInput (an input field with the id "new-task-input") and addTaskButton (a button with the id "add-task-button").
  • An event listener is added to the addTaskButton to listen for clicks. Click Event Handler
