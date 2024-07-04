@@ -11,8 +11,12 @@
  Mentor-Savani Gouni
 
 
+
+
+
  
 Overview of task-1
+
 
 Html code- Purpose: The code is for a simple To-Do List application. Structure: • The HTML document has a head section that contains metadata about the document. • The body section contains the content of the application, which is wrapped in a div element with the class "container". • The application has three main components:
 1.	A heading (h1) that displays the title "To-Do List".
