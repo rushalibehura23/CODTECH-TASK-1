@@ -1,13 +1,19 @@
  Name:Rushali Behura
- Company:CODTECH IT SOLUTIONS 
+ 
+ Company:CODTECH IT SOLUTIONS
+ 
  ID:CT08DS2035
+ 
  Domain-Web development 
- Duration-june-july 2024 
+ 
+ Duration-june-july 2024
+ 
  Mentor-Savani Gouni
 
 
  
 Overview of task-1
+
 Html code- Purpose: The code is for a simple To-Do List application. Structure: • The HTML document has a head section that contains metadata about the document. • The body section contains the content of the application, which is wrapped in a div element with the class "container". • The application has three main components:
 1.	A heading (h1) that displays the title "To-Do List".
 2.	A input field (input) to enter new tasks, along with an "Add Task" button (button).
