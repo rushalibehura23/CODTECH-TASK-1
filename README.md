@@ -25,8 +25,7 @@ Html code- Purpose: The code is for a simple To-Do List application. Structure: 
 4.	Key Elements:
 5.	 • input element with id "new-task-input" for entering new tasks.
 6.	  • button element with id "add-task-button" to add new tasks to the list.
-7.	   • ul element with id "task-list" to display the list of tasks.
-8.• script tag that links to an external JavaScript file (script.js) that will contain the logic for the application. 
+7.• script tag that links to an external JavaScript file (script.js) that will contain the logic for the application. 
 • link tag that links to an external stylesheet (style.css) for styling the application.
 
 CSS code-
